@@ -7,6 +7,7 @@
     - Google font: https://fonts.google.com/
 
 # Preview
+Link: https://dashboard-homepage-kappa.vercel.app/
 
 !["React Admin Dashboard Template"](https://user-images.githubusercontent.com/67447840/149510678-cd360920-e599-4520-a2f2-590e455e35f7.gif "React Admin Dashboard Template")
 
